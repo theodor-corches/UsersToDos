@@ -1,0 +1,26 @@
+.users-list-wrapper > h2 {
+    font-size: 24px;
+}
+
+.users-list-wrapper > p {
+    color: rgb(107 114 128);
+}
+
+.users-list {
+    gap: 20px 20px;
+    flex-wrap: wrap;
+    flex-direction: row-reverse;
+    margin-top: 30px;
+}
+
+.user-wrapper {
+    flex: 1 1 80px;
+    min-width: 15%;
+}
+
+.user-wrapper h5 {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    max-width: 175px;
+}

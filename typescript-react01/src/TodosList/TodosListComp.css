@@ -1,0 +1,11 @@
+.todos-list-wrapper > h2 {
+    font-size: 24px;
+}
+
+.todos-list-wrapper > p {
+    color: rgb(107 114 128);
+}
+
+.todos-list {
+    margin-top: 30px;
+}
